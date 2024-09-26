@@ -78,6 +78,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 - Este projeto faz uso da [JSONPlaceholder](https://jsonplaceholder.typicode.com/) para simular dados de tarefas;
 - Ícones utilizados neste projeto são do [Font Awesome 6](https://fontawesome.com/) através do [cdnjs](https://cdnjs.com/).
 
+## Demonstração
+
+[https://atv3-fdfr-it-tadeujeronimo.vercel.app/](https://atv3-fdfr-it-tadeujeronimo.vercel.app/)
+
 ## Licença
 
 [MIT](https://choosealicense.com/licenses/mit/)
