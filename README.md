@@ -2,6 +2,26 @@
 
 Atividade 3 do curso Fundamentos de Desenvolvimento Front end com React do Bootcamp Front-end Development da iTalents.
 
+## Projeto "Trabalhando com componentes"
+
+Desenvolver um projeto de estudo em React utilizando os conceitos de componente apresentados na aula.
+
+#### - Deve conter no mínimo 4 componentes:
+
+Ao todo foram criados 7 componentes: AppFooter, AppHeader, Button, FormInput, ItensList, TaskForm, TaskList.
+
+#### - Deve utilizar troca de dados via propriedades:
+
+Todos os componentes utilizam "props" para comunicação entre si. Alguns inclusive com compartilhamento de funções, que foram necessárias devido a não utilização de Hooks nessa unidade.
+
+#### - Deve utilizar o atributo children entre pelo menos 1 componente:
+
+"TaskList" é um listagem que utiliza como atributo children o componente "ItensList".
+
+#### - Deve conter um formulário com componentes:
+
+"TaskForm" é um formulário composto pelo componentes "FormInput" e "Button".
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
